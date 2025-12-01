@@ -1,0 +1,38 @@
+<Description>
+   ABAQUS/ABQcaeK rank 0 received the ABORT signal
+
+</Description>
+
+<Context>
+   CAE
+</Context>
+
+<Callstack>
+</Callstack>
+
+<Memory>
+   <Current>            0 GB </Current>
+   <Resident>           0 GB </Resident>
+   <Physical>           7 GB </Physical>
+   <Limit>              0 GB </Limit>
+   <Accessible>         7 GB </Accessible>
+   <Free>               1 GB </Free>
+   <Allocator>            DL </Allocator>
+</Memory>
+
+<Swap>
+       <Size>          15 GB </Size>
+       <Used>          10 GB </Used>
+       <Free>           4 GB </Free>
+</Swap>
+
+<Directories>
+  <current> C:\Users\sneha\OneDrive\Desktop\workshope_7 </current> <free>     28 GB </free>   <used>    192 GB </used> 
+     <temp> C:\Users\sneha\AppData\Local\Temp </temp>    <free>     28 GB </free>
+</Directories>
+
+<Installation>
+     <Version> Learning Edition 2025 2025 HF2 </Version>
+       <Build> 2025_03_14-18.42.51 RELr427 199052 </Build>
+</Installation>
+
